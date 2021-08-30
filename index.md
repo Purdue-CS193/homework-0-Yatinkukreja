@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Yatin's First cs193 Homework
+## Yatin's First cs193 Homework
+### Yatin's First cs193 Homework
+
+### Things I enjoy about CS
+- It feels like a puzzle
+- It makes me feel smart and techy
+- It's interesting
+- It will be helpful for getting a job 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
