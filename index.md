@@ -1,6 +1,4 @@
 # Yatin's First cs193 Homework
-## Yatin's First cs193 Homework
-### Yatin's First cs193 Homework
 
 ### Things I enjoy about CS
 - It feels like a puzzle
